@@ -1,0 +1,43 @@
+body{
+    background-color: aqua;
+}
+ul {
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    font-size: 35px;
+    float: left;
+} 
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    text-size-adjust: 30px;
+}
+
+.container {
+    width: 100%;
+    background-color: #ddd; 
+  }
+  
+  .skills {
+    text-align: right; 
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    color: white; 
+  }
+  
+  .html {width: 50%; background-color: #04AA6D;}
+  .css {width: 30%; background-color: #2196F3;} 
+  .Hacking {width: 60%; background-color: #f44336;} 
+  .CTF {width: 80%; background-color: #808080;}
